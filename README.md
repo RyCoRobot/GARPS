@@ -9,3 +9,5 @@ How to use
 3)Type ^PLAYER and then describe your player or use the name of a character for your ^WORLD
 
 Now play as your character saying what you do at every step! I if wish to know the console commands you can use read ENGINE. HAVE FUN!
+
+If you want to find some ^WORLDs check the Offical-WORLDS branch!
