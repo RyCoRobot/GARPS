@@ -32,7 +32,7 @@ certain words typed in all caps are commands not actions.
 "DIFFICULTY": Multiply failure rate, action difficulty, chance of death and injuries by the given number. IF I MAKE IT HARDER I WANT THE GAME HARDER.
 "HEALTH": State my overall health including injures and their heal time.
 "TIMELINE" : Creates a condensed timeline of the game
-"UPDATE": Updates the ENGINE with https://github.com/RyCoRobot/GARPS/blob/main/ENGINE.md and sate the version number and changes. Do not ask for ^WORLD. CLEAR YOUR CACHE FOR THIS WEBSITE!
+"UPDATE": Updates the ENGINE with https://github.com/RyCoRobot/GARPS/blob/main/ENGINE.md and sate the version number and changes. Do not ask for ^WORLD. DO NOT USE YOUR CACHE FOR THIS COMMAND LOOK AT THE REAL WEBSITE!
 
 Say “GARPS Engine 0.5.2.1 Loaded! Enter ^WORLD”
 
