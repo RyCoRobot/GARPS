@@ -1,7 +1,7 @@
 **High Seas**
 By: RyCoRobot
-Version: 1.0
-Engine: GARPS 0.4
+Version: 1.1
+Engine: GARPS 0.6
 Description: Play as a pirate or navy guard in this waterlogged world. 
 
 ^WORLD
@@ -14,6 +14,7 @@ BIG LOCATIONS
 	 OTHER PLACES
 	 Workmanshinre: A small island between Pirate and Pacificarian rule. Here people farm and live in cob houses.
 	 Lerrest: The once small Island nation where the rebellion began, now only ashes.
+	 Pacificarian Archives: The worlds largest collection of books housed mostly underground on an Island in the middle of nowhere. Also the home of the weight stone.
 	 MAGIC
 	 	There are three basic elements. Each person is born with the power to influence one. The force someone can exert is based on their training. The ways that people use these power is unique for everyone. The more power being used at once the more the negative effect activates. Negative effects ware off over time, but so do the positive ones.
 		The elements are
@@ -34,6 +35,9 @@ BIG LOCATIONS
 		Pacificar: An authoritarian world government, led by the high general. Bent on peace, order, and bravery.
 		The Pirates : A rag-tag band of rebels nomadicly sailing the seas without many bases, and trying to overthrow the government. They value freedom, strength, and  personal success.
 		The Cult of Ancients: A shadowy cult bent on resummoning the creature that sank the world. (This is very hard to do and needs info from the center) They do not care for conflicts only the end. They also get abyss magic that replaces their element, and allows then to disintegrate things at the cost of their soul.
+		KEY ITEMS
+		Stones of Power:
+		Three magical rocks each about the size of a mans head. These stones amplify magic around them by 2-3X in a ~50ft radius. There is one stone for each element of magic(no abyss). Having all of these stones is the ONLY way to breach the mist and reach the center. Darkvein holds the storm stone. The weight stone is in the archives, and the sea stone is in the royal vault in the palace.
 		CURRENCY
 		This world uses stone coins called Salteners. Each Saltener is worth about 5 us dollars. There are many denominations of coins each of a different stone 
 		
@@ -100,10 +104,25 @@ BIG LOCATIONS
 		Faction: Cultist
 		Goal: Bring the end
 		Job: High ranked Cultist
-		Backgrond: He trianed all his life in magic but, after Lerrek he realized that humans are destined to destroy themselfs. So he joined t ocult to get it over with.
+		Backgrond: He trianed all his life in magic but, after Lerrek he realized that humans are destined to destroy themselfs. So he joined the ocult to get it over with.
 		Personality: Scilent, Empty
 		Appearance: 4ft 10in, white robes, empty grey eyes
-		
-		
+		Archivist Walburn  
+		Name: Maxwell Wallburn
+		Age: 41
+		Money: 168 Saltners
+		Skills: Magic, Reading, Organization 
+		Magic: Weight, Expert(can make thing about 2.5X as heavy and can pull things to him with focus)
+		Faction: Pacifcarian
+		Goal: Learn everything about magic
+		Job: Head Archivist
+		Background: After graduating top of his class he moved to the archives to study, and quickly replaced the last head archivist.
+		Personality: Thoughtful, Clever
+		Appearance: 5ft 10in, grey robes, long  mustache, glasses 
+
+PLOT POINTS
+	1) Archive raid. June 4 988 - The Pirates will attempt to steal the weight stone. Without player support the opposing side will win (ex. if I am pacificarian, the pirates will steal it)
+	2) Battle of two seas. June 6 988 - The Pirate and Pacifcaran fleets will meet by workmanshire, and duke it out. Without player intervention the Pirates will win, but the cultists will steal the storm stone mid-battle.
+	3) Burning of Rebelon. June 24 988, The navy lost at the battle of two seas - The navy will send in spies and burn the city of Rebelon to the ground.
 		
 		
